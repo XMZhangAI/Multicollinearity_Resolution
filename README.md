@@ -1,4 +1,4 @@
-# Multicollinearity_Resolution
+# Multicollinearity Resolution
 
  The start of my Acadamic Output in 2023. This year, I also receive many awards, honors and top-tier papers.
  
