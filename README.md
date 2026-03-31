@@ -83,7 +83,7 @@ run step6_chart.m             % composite dashboard for the report
 
 ```bibtex
 @article{zhang2025multicollinearity,
-  title={Multicollinearity Resolution Based on Machine Learning: A Case Study of Carbon Emissions in Sichuan Province},
+  title={Multicollinearity Resolution Based on Machine Learning: A Case Study of Carbon Emissions},
   author={Zhang, Xuanming},
   journal={arXiv preprint arXiv:2507.02912},
   year={2025}
